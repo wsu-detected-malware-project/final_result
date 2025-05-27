@@ -1,0 +1,53 @@
+
+# ----------------------------
+# Visual Studio 관련 무시 규칙 (수정됨)
+# ----------------------------
+
+# 사용자 설정
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 캐시, 임시 파일
+.vs/
+*.cache
+*.tmp
+
+# 테스트 및 리포트
+TestResults/
+*.coverage
+*.coveragexml
+*.codecoverage
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Rider/Resharper 등
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code 설정 (필요한 건 제외 가능)
+.vscode/
+*.code-workspace
+
+# Node.js 관련
+node_modules/
+
+# ----------------------------
+# 특수 처리: .env 업로드 허용
+# ----------------------------
+
+# .env 파일은 업로드 가능하게 허용
+# .env ← 이 줄은 존재하지 않음
+.env.local
+.env.*.local
+.env.development
+.env.production
+!.env
+!bin/**/.env
+!.env.example
