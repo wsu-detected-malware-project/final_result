@@ -3,10 +3,6 @@
   "release_notes": "자동 생성된 업데이트",
   "files": [
     {
-      "path": ".env",
-      "url": "http://localhost:7070/static/files/.env"
-    },
-    {
       "path": "DotNetEnv.dll",
       "url": "http://localhost:7070/static/files/DotNetEnv.dll"
     },
