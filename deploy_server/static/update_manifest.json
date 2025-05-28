@@ -1,0 +1,118 @@
+{
+  "version": "1.1.0",
+  "release_notes": "자동 생성된 업데이트",
+  "files": [
+    {
+      "path": ".env",
+      "url": "http://localhost:7070/static/files/.env"
+    },
+    {
+      "path": "DotNetEnv.dll",
+      "url": "http://localhost:7070/static/files/DotNetEnv.dll"
+    },
+    {
+      "path": "language.csv",
+      "url": "http://localhost:7070/static/files/language.csv"
+    },
+    {
+      "path": "malwarelist.csv",
+      "url": "http://localhost:7070/static/files/malwarelist.csv"
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.Abstractions.dll",
+      "url": "http://localhost:7070/static/files/Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.dll",
+      "url": "http://localhost:7070/static/files/Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "path": "Microsoft.Extensions.Primitives.dll",
+      "url": "http://localhost:7070/static/files/Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "path": "Microsoft.Toolkit.Uwp.Notifications.dll",
+      "url": "http://localhost:7070/static/files/Microsoft.Toolkit.Uwp.Notifications.dll"
+    },
+    {
+      "path": "Microsoft.Windows.SDK.NET.dll",
+      "url": "http://localhost:7070/static/files/Microsoft.Windows.SDK.NET.dll"
+    },
+    {
+      "path": "pe_checker.ico",
+      "url": "http://localhost:7070/static/files/pe_checker.ico"
+    },
+    {
+      "path": "Sprache.dll",
+      "url": "http://localhost:7070/static/files/Sprache.dll"
+    },
+    {
+      "path": "System.CodeDom.dll",
+      "url": "http://localhost:7070/static/files/System.CodeDom.dll"
+    },
+    {
+      "path": "System.Management.dll",
+      "url": "http://localhost:7070/static/files/System.Management.dll"
+    },
+    {
+      "path": "WinRT.Runtime.dll",
+      "url": "http://localhost:7070/static/files/WinRT.Runtime.dll"
+    },
+    {
+      "path": "wrapper.deps.json",
+      "url": "http://localhost:7070/static/files/wrapper.deps.json"
+    },
+    {
+      "path": "wrapper.dll",
+      "url": "http://localhost:7070/static/files/wrapper.dll"
+    },
+    {
+      "path": "wrapper.exe",
+      "url": "http://localhost:7070/static/files/wrapper.exe"
+    },
+    {
+      "path": "wrapper.runtimeconfig.json",
+      "url": "http://localhost:7070/static/files/wrapper.runtimeconfig.json"
+    },
+    {
+      "path": "WSU_Malware.deps.json",
+      "url": "http://localhost:7070/static/files/WSU_Malware.deps.json"
+    },
+    {
+      "path": "WSU_Malware.dll",
+      "url": "http://localhost:7070/static/files/WSU_Malware.dll"
+    },
+    {
+      "path": "WSU_Malware.exe",
+      "url": "http://localhost:7070/static/files/WSU_Malware.exe"
+    },
+    {
+      "path": "WSU_Malware.runtimeconfig.json",
+      "url": "http://localhost:7070/static/files/WSU_Malware.runtimeconfig.json"
+    },
+    {
+      "path": "img/form1_shield1.png",
+      "url": "http://localhost:7070/static/files/img/form1_shield1.png"
+    },
+    {
+      "path": "img/form1_shield2.png",
+      "url": "http://localhost:7070/static/files/img/form1_shield2.png"
+    },
+    {
+      "path": "img/setting.png",
+      "url": "http://localhost:7070/static/files/img/setting.png"
+    },
+    {
+      "path": "img/shield1.jpg",
+      "url": "http://localhost:7070/static/files/img/shield1.jpg"
+    },
+    {
+      "path": "img/shield2.jpg",
+      "url": "http://localhost:7070/static/files/img/shield2.jpg"
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Management.dll",
+      "url": "http://localhost:7070/static/files/runtimes/win/lib/net8.0/System.Management.dll"
+    }
+  ]
+}
